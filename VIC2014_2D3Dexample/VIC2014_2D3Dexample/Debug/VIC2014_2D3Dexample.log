@@ -1,0 +1,64 @@
+﻿Build started 21/10/2016 8:27:03 CH.
+     1>Project "D:\UC\Semester3\GVT\Assignment\Assignment_DatDang_u3091855\StudentAssignmentShell\VIC2014_Assignment_StudentVersion\VIC2014_2D3Dexample\VIC2014_2D3Dexample\VIC2014_2D3Dexample.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(220): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(225): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(340): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(345): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(487): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(560): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(605): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\bitmap.h(631): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(71): warning C4244: 'argument' : conversion from 'GLfloat' to 'GLuint', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(83): warning C4244: 'argument' : conversion from 'GLfloat' to 'GLuint', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(185): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(274): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(286): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(310): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(311): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(312): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(313): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(520): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(521): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(523): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(525): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(602): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(628): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(629): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(630): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(650): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(753): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(754): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(755): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(884): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(885): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(923): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(1094): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(1231): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\uc\semester3\gvt\assignment\assignment_datdang_u3091855\studentassignmentshell\vic2014_assignment_studentversion\vic2014_2d3dexample\vic2014_2d3dexample\main.cpp(1235): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UC\Semester3\GVT\Assignment\Assignment_DatDang_u3091855\StudentAssignmentShell\VIC2014_Assignment_StudentVersion\VIC2014_2D3Dexample\Debug\VIC2014_2D3Dexample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UC\Semester3\GVT\Assignment\Assignment_DatDang_u3091855\StudentAssignmentShell\VIC2014_Assignment_StudentVersion\VIC2014_2D3Dexample\Debug\VIC2014_2D3Dexample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UC\Semester3\GVT\Assignment\Assignment_DatDang_u3091855\StudentAssignmentShell\VIC2014_Assignment_StudentVersion\VIC2014_2D3Dexample\Debug\VIC2014_2D3Dexample.lib" /MACHINE:X86 Debug\2Dtext.obj
+         Debug\axes.obj
+         Debug\CubeClass.obj
+         Debug\fileOperations.obj
+         Debug\fileOperations2.obj
+         Debug\firingplatform.obj
+         Debug\glUtils.obj
+         Debug\grid.obj
+         Debug\HeightField.obj
+         Debug\Lights.obj
+         Debug\main.obj
+         Debug\SpaceStation.obj
+         Debug\System.obj
+         Debug\utility.obj
+         Debug\vec4.obj
+     1>2Dtext.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         VIC2014_2D3Dexample.vcxproj -> D:\UC\Semester3\GVT\Assignment\Assignment_DatDang_u3091855\StudentAssignmentShell\VIC2014_Assignment_StudentVersion\VIC2014_2D3Dexample\Debug\VIC2014_2D3Dexample.exe
+     1>Done Building Project "D:\UC\Semester3\GVT\Assignment\Assignment_DatDang_u3091855\StudentAssignmentShell\VIC2014_Assignment_StudentVersion\VIC2014_2D3Dexample\VIC2014_2D3Dexample\VIC2014_2D3Dexample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
